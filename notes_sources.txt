@@ -1,0 +1,29 @@
+https://bulkybookweb.azurewebsites.net
+Admin: admin@dotnetmastery.com
+Employee: employee@dotnetmastery.com
+Individual: individual@dotnetmastery.com
+Company: company@dotnetmastery.com
+Admin123*
+
+https://bootswatch.com/
+https://getbootstrap.com/
+https://icons.getbootstrap.com/
+https://github.com/CodeSeven/toastr
+https://sweetalert2.github.io/#download
+https://datatables.net/
+https://www.tiny.cloud/
+https://sendgrid.com
+
+- when performing data migrationi commands, it should be on the prject that has the applicationdbcontext. That's where the database is migrated from.
+- 
+
+STRIPE
+======
+Publishable key: pk_test_51MYUi4F6UFZ6IqDusll7mBXapQGinwvWsAqiUs2vWjMumIqSm1OIr2gOvRLKdxA8SXvmJIYE38BP5j1kqRdnzi4G00nVA7VPsd
+Secret key: sk_test_51MYUi4F6UFZ6IqDurEmPalL3ymsKGUe8obLNnTmBSZHut2f88pyyimIcEbKJcRpqA8WtKb2IpUcv0ANXRBpzMnGM00bp8GfTsj
+
+
+
+SEND GRID
+=========
+apikey: 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
